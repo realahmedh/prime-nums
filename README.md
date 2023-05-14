@@ -13,11 +13,11 @@ The algorithm used to check if a number is prime is the **trial division** metho
 3. Compile the code by running the following command:
    ````
    g++ main.cpp -o prime
-   ```
+   
 4. Run the code by running the following command:
    ````
    ./prime
-   ```
+   
 5. Enter a number to check if it is prime or not.
 6. The program will output whether the number is prime or not, followed by all prime numbers up to the entered number (excluding 2, 3, and 5).
 
